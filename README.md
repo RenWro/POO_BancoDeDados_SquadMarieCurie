@@ -18,3 +18,7 @@ Integrantes:
 
 Divisão e organização entre os exercícios:
 https://trello.com/b/2TH5CzmX/squad-marie-curie-womakers-code
+
+Modelo de Banco de Dados:
+O modelo de banco de dados pode ser encontrado no link a seguir
+https://drawsql.app/teams/squadmariecurrie/diagrams/biblioteca
