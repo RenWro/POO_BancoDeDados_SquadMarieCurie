@@ -8,7 +8,6 @@ Integrantes:
 
 - Beatriz Martins Cabral
 - Carla Morais
-- Cristiane Matos
 - Daniela Barbosa Vidal
 - Eva Luana Almeida da Silva
 - Letícia dos Santos
